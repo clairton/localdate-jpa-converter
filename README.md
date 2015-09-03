@@ -11,8 +11,7 @@ Register in persistence.xml
 </persistence>
 ```
 
-```	
-	Download através do maven, dependência:
+Download  dependency:
 ```xml
 <dependeny>
 	<groupId>br.eti.clairton</groupId>
@@ -20,7 +19,7 @@ Register in persistence.xml
 	<version>0.1.0</version>
 </dependency>
 ```
-	E adicionar o repositório
+Add the repository:
 ```xml
 <repository>
 	<id>mvn-repo-releases</id>
