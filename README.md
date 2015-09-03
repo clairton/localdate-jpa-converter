@@ -13,7 +13,7 @@ Register in persistence.xml
 
 Download  dependency:
 ```xml
-<dependeny>
+<dependency>
 	<groupId>br.eti.clairton</groupId>
 	<artifactId>localdate-jpa-converter</artifactId>
 	<version>0.1.0</version>
